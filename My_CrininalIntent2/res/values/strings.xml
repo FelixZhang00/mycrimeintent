@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My_CrininalIntent</string>
+    <string name="action_settings">setting</string>
+    <string name="title_activity_crime">CrimeActivity</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">TITLE</string>
+    <string name="crime_detail_label">DETAILS</string>
+    <string name="checkbox_text">Solved?</string>
+    <string name="crimes_title">Crimes</string>
+    <string name="date_picker_title">Date of Crime</string>
+    <string name="choose_suspect">Choose Suspect</string>
+    <string name="send_report">Send Crime Report</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s,and %4$s.</string>
+    <string name="report_is_solved">The case is solved</string>
+    <string name="report_is_not_solved">The case is not solved</string>
+    <string name="report_no_suspect">There is no suspect</string>
+    <string name="report_suspect">The suspect is %1$s</string>
+
+    <!-- MENU -->
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle">If you see something, say something.</string>
+    <string name="delete_crime">Delete</string>
+    <string name="menu_crime_delete_title">Delete</string>
+    <string name="take">Take!</string>
+    <string name="fail_take_picture">Take Picture Failed</string>
+    <string name="delete_pic">delete this picture</string>
+
+</resources>
